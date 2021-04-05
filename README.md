@@ -1,4 +1,14 @@
 # Predicting Diabetes
+
+### Contributors:
+Pradish Kapur
+
+Ragghav Renganathan Ramakrishnan
+
+Prithvi Sunilkumar
+
+Pranav Jain
+
 ## Problem Description
 The objective is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset and to find out the factors which largely cause the condition.
 
